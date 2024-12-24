@@ -7,6 +7,7 @@
     ⦉ ✦ ⦊  18 | Female 
     ⦉ ✦ ⦊  Aspiring Programmer
     ⦉ ✦ ⦊  Visual Novel Modder [DDLC]
+    ⦉ ✦ ⦊  C Language
     ⦉ ✦ ⦊  Chocolate and Marshmallows yum <3
     <br>
   "The technology you use impresses no one.
