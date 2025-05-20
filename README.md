@@ -6,7 +6,7 @@
     ⦉ ✦ ⦊  1st Year BSCS College Student
     ⦉ ✦ ⦊  18 | Female 
     ⦉ ✦ ⦊  Aspiring Programmer
-    ⦉ ✦ ⦊  C, C#, Java
+    ⦉ ✦ ⦊  C, Java
     ⦉ ✦ ⦊  Chocolate and Marshmallows yum <3
     <br>
   "The technology you use impresses no one.
