@@ -4,9 +4,9 @@
 <br><br>
 <pre>
     ⦉ ✦ ⦊  2nd Year BSCS College Student
-    ⦉ ✦ ⦊  18 | Female 
+    ⦉ ✦ ⦊  19 | Female 
     ⦉ ✦ ⦊  Aspiring Programmer
-    ⦉ ✦ ⦊  C, Java
+    ⦉ ✦ ⦊  C, C#, Java
     ⦉ ✦ ⦊  Chocolate and Marshmallows yum <3
     <br>
   "The technology you use impresses no one.
